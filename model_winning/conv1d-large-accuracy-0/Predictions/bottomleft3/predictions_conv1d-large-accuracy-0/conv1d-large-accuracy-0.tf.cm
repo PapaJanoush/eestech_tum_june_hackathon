@@ -1,0 +1,419 @@
+Predicted,Actual,Start,Duration,Score,Session,Confidence
+,,0.0,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9923157
+,,0.032,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9903163
+,,0.064,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.98392177
+,,0.09600001,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8577523
+bottom left,,0.128,0.12793748,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.70891213
+bottom left,,0.16,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7511468
+bottom left,,0.19200002,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.72178406
+bottom left,,0.224,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.71370924
+bottom left,,0.256,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6673896
+bottom left,,0.288,0.12793753,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.65245336
+bottom left,,0.32,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6046671
+bottom left,,0.352,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6102219
+bottom left,,0.38400003,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5524984
+bottom left,,0.416,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4928776
+bottom left,,0.448,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47241864
+bottom left,,0.48000002,0.12793753,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3817187
+bottom left,,0.512,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.44715607
+bottom left,,0.544,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.42512527
+,,0.576,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37673542
+,,0.608,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40236497
+top left,,0.64,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.38683078
+top left,,0.672,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4367675
+,,0.704,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4340245
+,,0.736,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49418148
+,,0.76800007,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5531673
+,,0.8,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.55180824
+,,0.832,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5477807
+,,0.864,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5223191
+,,0.896,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4864027
+,,0.928,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5117326
+,,0.96000004,0.1279375,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4593125
+,,0.992,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48157197
+,,1.024,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45941207
+,,1.056,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4980541
+,,1.088,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5186441
+,,1.12,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5042179
+,,1.152,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5397607
+bottom left,,1.184,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48959664
+bottom left,,1.216,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47002912
+bottom left,,1.248,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5211775
+bottom left,,1.28,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.523965
+bottom left,,1.312,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5362552
+bottom left,,1.344,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47782782
+,,1.376,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43426707
+bottom left,,1.408,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5190786
+bottom left,,1.44,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.52934015
+bottom left,,1.472,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6055962
+bottom left,,1.504,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.58918357
+,,1.5360001,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.42052042
+bottom left,,1.568,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.38754204
+bottom left,,1.6,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40942115
+bottom left,,1.632,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4615922
+bottom left,,1.664,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5406943
+bottom left,,1.6960001,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41384223
+,,1.728,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41909856
+top left,,1.7599999,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3980926
+,,1.792,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43094108
+,,1.824,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4804257
+,,1.856,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.55307496
+,,1.888,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.55068564
+,,1.9200001,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6114789
+,,1.952,0.12793744,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.57168555
+,,1.984,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5584096
+,,2.016,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5140126
+,,2.048,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48904395
+,,2.08,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49182776
+bottom left,,2.112,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5005225
+bottom left,,2.144,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.565599
+bottom left,,2.176,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.57372123
+bottom left,,2.208,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.54814404
+bottom left,bottom left,2.24,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5198992
+bottom left,bottom left,2.272,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.50196576
+bottom left,bottom left,2.304,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5037611
+bottom left,bottom left,2.336,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.50647587
+bottom left,bottom left,2.368,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5573364
+bottom left,bottom left,2.4,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5843675
+bottom left,bottom left,2.432,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.56735474
+bottom left,bottom left,2.464,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.52529
+,bottom left,2.496,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5242474
+,bottom left,2.528,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5865841
+,bottom left,2.56,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5690057
+,bottom left,2.592,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.55783135
+,bottom left,2.624,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4738099
+,bottom left,2.656,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41605124
+top left,bottom left,2.688,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4345398
+top left,bottom left,2.72,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43278912
+,bottom left,2.752,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40004668
+,bottom left,2.784,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.36981237
+,bottom left,2.816,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37062612
+bottom left,bottom left,2.8480003,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.39433846
+bottom left,bottom left,2.88,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3771957
+bottom left,bottom left,2.912,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40767014
+bottom left,bottom left,2.944,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4530312
+bottom left,bottom left,2.976,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5142502
+bottom left,bottom left,3.008,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6964719
+bottom left,bottom left,3.04,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.71911484
+bottom left,bottom left,3.0720003,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.71741956
+bottom left,bottom left,3.104,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6294913
+top left,bottom left,3.136,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49786973
+top left,bottom left,3.168,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5392082
+top left,bottom left,3.2,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5288864
+top left,bottom left,3.232,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5496769
+top left,bottom left,3.264,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45292458
+top left,bottom left,3.2959998,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.42848986
+top left,bottom left,3.328,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40594637
+bottom left,bottom left,3.36,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3350869
+bottom left,bottom left,3.3920002,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4475518
+bottom left,bottom left,3.424,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5710104
+bottom left,bottom left,3.456,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6478551
+bottom left,bottom left,3.488,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5819446
+bottom left,bottom left,3.5199997,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6263345
+bottom left,bottom left,3.552,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.59884506
+bottom left,bottom left,3.584,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.51820266
+bottom left,bottom left,3.6160002,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.46952355
+,bottom left,3.648,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.31250998
+,bottom left,3.68,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.50707895
+,bottom left,3.712,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6253741
+,bottom left,3.7439997,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6503137
+,bottom left,3.776,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.63649786
+,bottom left,3.8080003,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.51693296
+,bottom left,3.8400002,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49403358
+,bottom left,3.872,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3719043
+,bottom left,3.904,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37973186
+,bottom left,3.9359999,0.12793756,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37113634
+,bottom left,3.968,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37316355
+bottom left,bottom left,4.0,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45712316
+bottom left,bottom left,4.032,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.56488997
+bottom left,bottom left,4.064,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6567974
+bottom left,bottom left,4.096,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7354783
+bottom left,bottom left,4.128,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.70466894
+bottom left,bottom left,4.16,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.65881604
+bottom left,bottom left,4.192,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.582485
+bottom left,bottom left,4.224,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.61323804
+bottom left,bottom left,4.256,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6028535
+bottom left,bottom left,4.288,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.55524653
+bottom left,bottom left,4.32,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49020237
+,bottom left,4.352,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5577478
+,bottom left,4.384,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5813893
+,bottom left,4.416,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5636735
+,bottom left,4.448,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4951799
+bottom left,bottom left,4.48,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4281432
+bottom left,bottom left,4.512,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49413896
+bottom left,bottom left,4.544,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49509582
+bottom left,bottom left,4.576,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.53862506
+bottom left,bottom left,4.608,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.62189245
+bottom left,bottom left,4.64,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7199865
+bottom left,bottom left,4.672,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.75409913
+bottom left,bottom left,4.704,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7599114
+bottom left,bottom left,4.736,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7949036
+bottom left,bottom left,4.768,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7702361
+bottom left,bottom left,4.8,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.81042725
+bottom left,bottom left,4.832,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.81020916
+bottom left,bottom left,4.864,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.735371
+bottom left,bottom left,4.896,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7015953
+bottom left,bottom left,4.928,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5892833
+bottom left,bottom left,4.96,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.58174115
+bottom left,bottom left,4.992,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.66812855
+bottom left,bottom left,5.024,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6518302
+bottom left,bottom left,5.056,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6274237
+bottom left,bottom left,5.088,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5785274
+bottom left,bottom left,5.12,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5444031
+bottom left,bottom left,5.152,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5954115
+bottom left,bottom left,5.184,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.629722
+bottom left,bottom left,5.216,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6079278
+bottom left,bottom left,5.248,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6326209
+bottom left,bottom left,5.28,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.61486965
+bottom left,bottom left,5.312,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5708061
+bottom left,bottom left,5.344,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5649341
+bottom left,bottom left,5.376,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5638656
+bottom left,bottom left,5.408,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4713162
+,bottom left,5.44,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4659022
+,bottom left,5.472,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4990698
+,bottom left,5.504,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5298146
+,bottom left,5.536,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49038973
+,bottom left,5.568,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48201984
+bottom left,bottom left,5.6,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48269013
+bottom left,bottom left,5.632,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5305458
+bottom left,bottom left,5.664,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6138728
+bottom left,bottom left,5.6960006,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.61136603
+bottom left,bottom left,5.7279997,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.60823405
+bottom left,bottom left,5.76,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6266268
+bottom left,bottom left,5.792,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.62114024
+bottom left,bottom left,5.824,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6446668
+bottom left,bottom left,5.856,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.64421433
+bottom left,bottom left,5.888,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6373261
+bottom left,bottom left,5.9200006,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6424119
+bottom left,bottom left,5.952,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.62918955
+bottom left,bottom left,5.984,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.62395805
+bottom left,bottom left,6.016,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.60721266
+bottom left,bottom left,6.048,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.59702456
+bottom left,bottom left,6.08,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.66134673
+bottom left,bottom left,6.112,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6407582
+bottom left,bottom left,6.1440005,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6483354
+bottom left,bottom left,6.176,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6243713
+bottom left,bottom left,6.208,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45323494
+top left,bottom left,6.24,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5855593
+top left,bottom left,6.272,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.844002
+top left,bottom left,6.304,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9750481
+top left,bottom left,6.336,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.97120315
+top left,bottom left,6.3679996,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9460603
+top left,bottom left,6.4,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.89513797
+top left,bottom left,6.432,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7706713
+top left,bottom left,6.464,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.73385024
+top left,bottom left,6.496,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7972595
+top left,bottom left,6.528,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.75475264
+top left,bottom left,6.56,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6908455
+top left,bottom left,6.5919995,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.60825247
+top left,bottom left,6.624,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4534959
+,bottom left,6.656,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5841805
+,bottom left,6.688,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6484637
+,bottom left,6.72,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6452004
+,bottom left,6.752,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6536551
+,bottom left,6.7840004,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.668738
+,bottom left,6.8159995,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.62978023
+,bottom left,6.848,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.61443406
+,bottom left,6.88,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.60089654
+,bottom left,6.912,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5560736
+,bottom left,6.944,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.53803813
+bottom left,bottom left,6.976,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5020321
+bottom left,bottom left,7.0080004,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.574817
+bottom left,bottom left,7.0399995,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.58626604
+bottom left,bottom left,7.072,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.61998075
+bottom left,bottom left,7.104,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6165121
+bottom left,bottom left,7.136,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5898739
+bottom left,bottom left,7.168,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.521978
+bottom left,bottom left,7.2,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45650306
+,bottom left,7.2320004,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.39887798
+,bottom left,7.2639995,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.38955748
+,bottom left,7.296,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.36608657
+,bottom left,7.328,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37212017
+bottom left,bottom left,7.36,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.34305042
+bottom left,bottom left,7.392,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.36301365
+left,bottom left,7.424,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4675581
+left,bottom left,7.4560003,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.54275197
+left,bottom left,7.4879994,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.51811165
+left,bottom left,7.52,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.42986128
+bottom left,bottom left,7.552,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4626339
+bottom left,bottom left,7.584,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4145249
+bottom left,bottom left,7.6160007,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43697554
+bottom left,bottom left,7.648,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.53232
+bottom left,bottom left,7.6800003,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5759386
+bottom left,bottom left,7.712,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6855779
+bottom left,bottom left,7.744,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.77671266
+bottom left,bottom left,7.776,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.81211364
+bottom left,bottom left,7.808,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8313995
+bottom left,bottom left,7.8400006,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8552019
+bottom left,bottom left,7.8719997,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.782803
+bottom left,bottom left,7.9040003,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.65296453
+top left,bottom left,7.936,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49615636
+top left,bottom left,7.968,0.1279378,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6013628
+top left,bottom left,8.0,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.580721
+top left,bottom left,8.032,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.52284884
+bottom left,bottom left,8.064,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5416983
+bottom left,bottom left,8.096,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6240188
+bottom left,bottom left,8.128,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.59706014
+bottom left,bottom left,8.16,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6458111
+bottom left,bottom left,8.192,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5068175
+top left,bottom left,8.224,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47709325
+bottom left,bottom left,8.256,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5119499
+top left,bottom left,8.288,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41199988
+top left,bottom left,8.32,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.35329297
+,bottom left,8.352,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3747692
+,bottom left,8.384,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47625884
+,bottom left,8.416,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.55952054
+,bottom left,8.448,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5516597
+,bottom left,8.48,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5429119
+,bottom left,8.512,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.57306874
+,bottom left,8.544,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5137605
+,bottom left,8.576,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48295587
+,bottom left,8.608,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.46317914
+,bottom left,8.64,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.36892062
+,bottom left,8.672,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40055582
+,bottom left,8.704,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4384474
+,bottom left,8.736,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43964547
+,bottom left,8.768,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48417655
+,bottom left,8.8,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4575687
+,bottom left,8.832,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40257302
+left,bottom left,8.864,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.44678816
+left,bottom left,8.896,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.61449176
+left,bottom left,8.928,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6366477
+left,bottom left,8.96,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5996431
+left,bottom left,8.992,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.51633066
+left,bottom left,9.024,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43338728
+,bottom left,9.056,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40919355
+,bottom left,9.088,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3863
+,bottom left,9.12,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.35957947
+,bottom left,9.152,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3837523
+,bottom left,9.184,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.3982713
+,bottom left,9.216,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41470385
+,bottom left,9.248,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47893006
+,bottom left,9.28,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.453091
+,bottom left,9.312,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43452013
+bottom left,bottom left,9.344,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.44536632
+bottom left,bottom left,9.376,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.46408147
+bottom left,bottom left,9.408,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5018275
+bottom left,bottom left,9.44,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.53106916
+bottom left,bottom left,9.472,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5590844
+,bottom left,9.504,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47957656
+,bottom left,9.536,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48707426
+,bottom left,9.568,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5014851
+,bottom left,9.6,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5406667
+bottom left,bottom left,9.632,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5203552
+bottom left,bottom left,9.664,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5085792
+,bottom left,9.696,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49459404
+,bottom left,9.728,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47915065
+bottom left,bottom left,9.76,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47250876
+bottom left,bottom left,9.792,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47958478
+bottom left,bottom left,9.824,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4947092
+bottom left,bottom left,9.856,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.48380688
+bottom left,bottom left,9.888,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4678854
+bottom left,bottom left,9.92,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.44043475
+bottom left,bottom left,9.952,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4364689
+bottom left,bottom left,9.984,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.443993
+bottom left,bottom left,10.016,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4034594
+top left,,10.048,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37845576
+top left,,10.08,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.43462288
+top left,,10.112,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47662133
+top left,,10.144,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5612087
+top left,,10.176,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.499488
+top left,,10.208,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.501427
+top left,,10.24,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5323756
+top left,,10.272,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5585285
+top left,,10.304,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5394602
+top left,,10.336,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.54743767
+top left,,10.368,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5019629
+top left,,10.4,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4346116
+top left,,10.432,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41299772
+top left,,10.464,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.41290253
+top left,,10.496,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.35445324
+,,10.528,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.42777756
+,,10.56,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6221564
+,,10.592,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.71844006
+,,10.624,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7756599
+,,10.656,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7861438
+,,10.688,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7607048
+,,10.72,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.73372865
+,,10.752,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7413383
+,,10.784,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.75112337
+,,10.816,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7818489
+,,10.848,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8586187
+,,10.88,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.84280616
+,,10.912,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.82648385
+,,10.944,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.80547535
+,,10.976,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.78526145
+,,11.008,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6943896
+,,11.04,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6498584
+,,11.072,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49525583
+down,,11.104,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40067425
+,,11.136,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47982097
+,,11.168,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.49439904
+,,11.2,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5629617
+,,11.232,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.57763314
+,,11.264,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45709822
+,,11.295999,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47346365
+down,,11.328,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4689143
+down,,11.36,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4522933
+,,11.392001,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.47369298
+,,11.424,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45249972
+,,11.455999,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.45152584
+down,,11.488,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.40097383
+,,11.52,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37667587
+down,,11.552,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.37581837
+down,,11.584,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.4727668
+,,11.616001,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5063812
+,,11.648,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.5850769
+,,11.679999,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7736861
+,,11.712,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.83010745
+,,11.744,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.75599897
+,,11.776,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.75837183
+,,11.808,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.63863075
+,,11.840001,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.6869137
+,,11.872,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7472928
+,,11.904,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.82400465
+,,11.936,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8236272
+,,11.968,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8045756
+,,12.0,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.82675475
+,,12.032,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.69919366
+,,12.064001,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7202332
+,,12.096,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.78896374
+,,12.128,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.81306314
+,,12.16,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8202041
+,,12.192,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.81073993
+,,12.224,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.7500243
+,,12.256,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.71938694
+,,12.288001,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.74761313
+,,12.32,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8087136
+,,12.352,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.86161697
+,,12.384,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8859315
+,,12.416,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9243375
+,,12.448,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.93669266
+,,12.48,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9598592
+,,12.512001,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.95580864
+,,12.544,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.96944153
+,,12.576,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.97047585
+,,12.608,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.97477275
+,,12.64,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9694087
+,,12.672,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.94864035
+,,12.704,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.94077855
+,,12.735999,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8426152
+,,12.768,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.86145407
+,,12.8,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.84522253
+,,12.832,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.8747297
+,,12.864,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9457427
+,,12.896,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.96901494
+,,12.928,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.98155755
+,,12.959999,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.99008113
+,,12.992,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.99312586
+,,13.024,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.99269027
+,,13.056,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9926749
+,,13.088,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9920427
+,,13.12,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.98963004
+,,13.152,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.98958707
+,,13.183999,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.98438203
+,,13.216,0.12793827,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9813227
+,,13.248,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.98110765
+,,13.28,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9742928
+,,13.312,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.97783935
+,,13.344,0.12793732,1,4ea6e9cf-c729-49dd-a368-73a9e4fc55e9:bottomleft3,0.9724558
