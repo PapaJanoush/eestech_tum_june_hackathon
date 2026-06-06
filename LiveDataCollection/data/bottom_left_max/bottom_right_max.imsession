@@ -2,10 +2,10 @@
 <ImagimobStudio version="0.9">
   <Timeline id="46b054ac-c2e8-4f5f-8b0a-dde5a2f8583b">
     <Tracks>
-      <Track name="Local Microphone Output Samples DataTrack" type="audiowav" isLabelTrack="False">
+      <Track name="Local Microphone Output Samples DataTrack" type="audiowav" isLabelTrack="False" frequency="16000">
         <PayloadFile>Local-Microphone-Output-Samples-DataTrack.wav</PayloadFile>
         <Shape>
-          <Axis name="Channel" size="2">
+          <Axis name="Audio" size="2">
             <Label index="0">Left</Label>
             <Label index="1">Right</Label>
           </Axis>
@@ -13,7 +13,11 @@
       </Track>
       <Track name="Live Labeling" type="labelcsv">
         <PayloadFile>Live-Labeling.label</PayloadFile>
-        <Shape />
+        <Shape>
+          <Axis name="Labels" size="1">
+            <Label index="0">bottom left</Label>
+          </Axis>
+        </Shape>
       </Track>
     </Tracks>
   </Timeline>
