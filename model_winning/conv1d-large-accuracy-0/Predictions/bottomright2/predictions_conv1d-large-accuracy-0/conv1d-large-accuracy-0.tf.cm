@@ -1,0 +1,373 @@
+Predicted,Actual,Start,Duration,Score,Session,Confidence
+,,0.0,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9923157
+,,0.032,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.99102175
+,,0.064,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9879178
+,,0.09600001,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9843837
+,,0.128,0.12793748,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9748733
+,,0.16,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9734912
+,,0.19200002,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.97012174
+,,0.224,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9648555
+,,0.256,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.97193426
+,,0.288,0.12793753,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9664277
+,,0.32,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9705227
+,,0.352,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9645856
+,,0.38400003,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.93866056
+,,0.416,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9416783
+,,0.448,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.93664664
+,,0.48000002,0.12793753,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.94255143
+,,0.512,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.95349085
+,,0.544,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.94588006
+,,0.576,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9400841
+,,0.608,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.94866616
+,,0.64,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.95187
+,,0.672,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9504168
+,,0.704,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9432505
+,,0.736,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.938054
+,,0.76800007,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9437286
+,,0.8,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9595669
+,,0.832,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9693027
+,,0.864,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.97763026
+,,0.896,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.983056
+,,0.928,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.98471665
+,,0.96000004,0.1279375,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.98900837
+,,0.992,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9902726
+,,1.024,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9897734
+,,1.056,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.98760146
+,,1.088,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.98635423
+,,1.12,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9831445
+,,1.152,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9857888
+,,1.184,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.99030644
+,,1.216,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.99174213
+,,1.248,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9932815
+,,1.28,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.98769176
+,,1.312,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9775191
+,,1.344,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9777395
+,,1.376,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9804681
+,,1.408,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9816144
+,,1.44,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.96049815
+,,1.472,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.81333345
+bottom right,,1.504,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.45125282
+bottom right,,1.5360001,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.47977835
+bottom right,,1.568,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5000943
+,,1.6,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.346272
+,,1.632,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.44356596
+,,1.664,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3729176
+right,,1.6960001,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.35788247
+bottom right,,1.728,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.38474545
+bottom right,,1.7599999,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.51754427
+bottom right,,1.792,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5096343
+bottom right,,1.824,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6060349
+bottom right,,1.856,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.72808456
+bottom right,,1.888,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5707323
+top right,,1.9200001,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.43800968
+top right,,1.952,0.12793744,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64197695
+top right,,1.984,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.73532784
+top right,,2.016,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.63422227
+top right,,2.048,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.60823745
+top right,,2.08,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6464386
+top right,,2.112,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5731292
+top right,,2.144,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.53046185
+,,2.176,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4696616
+,,2.208,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.45040232
+,,2.24,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.345477
+bottom right,,2.272,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4543362
+bottom right,,2.304,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.51840204
+bottom right,,2.336,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.56452405
+bottom right,,2.368,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.44776958
+,,2.4,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.34680846
+,,2.432,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3380461
+top right,,2.464,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4144472
+top right,,2.496,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.45627543
+,,2.528,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3721487
+top right,,2.56,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.36692747
+,,2.592,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.36260337
+bottom right,,2.624,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4934468
+bottom right,,2.656,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.505032
+bottom right,,2.688,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.40818995
+bottom right,,2.72,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.46209514
+bottom right,,2.752,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48225337
+bottom right,,2.784,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4806659
+bottom right,,2.816,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.53668624
+bottom right,,2.8480003,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4455347
+top right,,2.88,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.47824124
+top right,,2.912,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.49459818
+top right,,2.944,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.55168307
+top right,,2.976,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4107391
+bottom right,,3.008,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.35526618
+bottom right,,3.04,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.45165494
+bottom right,,3.0720003,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5274419
+bottom right,,3.104,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6117892
+bottom right,,3.136,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.57560253
+bottom right,,3.168,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6344566
+bottom right,,3.2,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5663824
+bottom right,,3.232,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5515477
+bottom right,,3.264,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5748462
+bottom right,,3.2959998,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6229593
+bottom right,,3.328,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.70128983
+bottom right,,3.36,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7377579
+bottom right,,3.3920002,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7310235
+bottom right,,3.424,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6735565
+bottom right,,3.456,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6858489
+bottom right,,3.488,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5661748
+bottom right,,3.5199997,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.42145956
+bottom right,,3.552,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.33957183
+top right,,3.584,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.34198982
+top right,,3.6160002,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3790801
+top right,,3.648,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3536597
+bottom right,,3.68,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3382318
+bottom right,,3.712,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4803812
+bottom right,,3.7439997,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48898205
+bottom right,,3.776,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5030564
+bottom right,,3.8080003,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4252574
+bottom right,,3.8400002,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3997953
+bottom right,,3.872,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.38818336
+,,3.904,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.45294508
+top right,,3.9359999,0.12793756,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5274863
+top right,bottom right,3.968,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.57550234
+top right,bottom right,4.0,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5274999
+top right,bottom right,4.032,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5046144
+top right,bottom right,4.064,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.42489508
+top right,bottom right,4.096,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5660583
+top right,bottom right,4.128,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.60969794
+top right,bottom right,4.16,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5878862
+top right,bottom right,4.192,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48114908
+top right,bottom right,4.224,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5267711
+top right,bottom right,4.256,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5059878
+top right,bottom right,4.288,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.50099474
+top right,bottom right,4.32,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5002071
+,bottom right,4.352,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5270765
+,bottom right,4.384,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5558139
+,bottom right,4.416,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5263598
+,bottom right,4.448,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.47026068
+top right,bottom right,4.48,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5199274
+top right,bottom right,4.512,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5143699
+top right,bottom right,4.544,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5905227
+top right,bottom right,4.576,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6518518
+top right,bottom right,4.608,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6803615
+top right,bottom right,4.64,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.80500114
+top right,bottom right,4.672,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.87878376
+top right,bottom right,4.704,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.88694316
+top right,bottom right,4.736,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.90903956
+top right,bottom right,4.768,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9044113
+top right,bottom right,4.8,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.90140694
+top right,bottom right,4.832,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.90217215
+top right,bottom right,4.864,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9251119
+top right,bottom right,4.896,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9357114
+top right,bottom right,4.928,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.93723536
+top right,bottom right,4.96,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.95505667
+top right,bottom right,4.992,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.93452954
+top right,bottom right,5.024,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9346349
+top right,bottom right,5.056,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.9329506
+top right,bottom right,5.088,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.91990465
+top right,bottom right,5.12,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.94323826
+top right,bottom right,5.152,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.94477373
+top right,bottom right,5.184,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.92098397
+top right,bottom right,5.216,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.89854044
+top right,bottom right,5.248,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8214139
+top right,bottom right,5.28,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.56647027
+bottom right,bottom right,5.312,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4491539
+bottom right,bottom right,5.344,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7307261
+bottom right,bottom right,5.376,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.77324396
+bottom right,bottom right,5.408,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.78162044
+bottom right,bottom right,5.44,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7726049
+bottom right,bottom right,5.472,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.72802526
+bottom right,bottom right,5.504,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7145685
+bottom right,bottom right,5.536,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64073086
+bottom right,bottom right,5.568,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5813484
+bottom right,bottom right,5.6,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.58094275
+bottom right,bottom right,5.632,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.53343797
+bottom right,bottom right,5.664,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6187419
+bottom right,bottom right,5.6960006,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64695674
+bottom right,bottom right,5.7279997,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7082439
+bottom right,bottom right,5.76,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.75106597
+bottom right,bottom right,5.792,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7306182
+bottom right,bottom right,5.824,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76173127
+bottom right,bottom right,5.856,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8813491
+bottom right,bottom right,5.888,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.89088744
+bottom right,bottom right,5.9200006,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8773034
+bottom right,bottom right,5.952,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.90510225
+bottom right,bottom right,5.984,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.80865335
+bottom right,bottom right,6.016,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6879559
+bottom right,bottom right,6.048,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5690647
+right,bottom right,6.08,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.44619405
+bottom right,bottom right,6.112,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4791425
+bottom right,bottom right,6.1440005,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.50942075
+right,bottom right,6.176,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.46113932
+right,bottom right,6.208,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.50358504
+right,bottom right,6.24,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5260351
+right,bottom right,6.272,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5357854
+right,bottom right,6.304,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48008052
+bottom right,bottom right,6.336,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5456999
+bottom right,bottom right,6.3679996,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7168843
+bottom right,bottom right,6.4,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.80014503
+bottom right,bottom right,6.432,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8505387
+bottom right,bottom right,6.464,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6182341
+top right,bottom right,6.496,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6838567
+top right,bottom right,6.528,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76194525
+top right,bottom right,6.56,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7305832
+top right,bottom right,6.5919995,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.71641827
+top right,bottom right,6.624,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.55315834
+top right,bottom right,6.656,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.61252636
+top right,bottom right,6.688,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.51566446
+top right,bottom right,6.72,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.39679173
+bottom right,bottom right,6.752,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3995591
+bottom right,bottom right,6.7840004,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6404724
+bottom right,bottom right,6.8159995,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5576016
+bottom right,bottom right,6.848,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.71996725
+bottom right,bottom right,6.88,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8475574
+bottom right,bottom right,6.912,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8362286
+bottom right,bottom right,6.944,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8835178
+bottom right,bottom right,6.976,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8110079
+bottom right,bottom right,7.0080004,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7214507
+bottom right,bottom right,7.0399995,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.34682953
+top right,bottom right,7.072,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.47811255
+top right,bottom right,7.104,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.52262104
+top right,bottom right,7.136,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6052323
+top right,bottom right,7.168,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.60615367
+top right,bottom right,7.2,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.68080026
+top right,bottom right,7.2320004,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7675192
+top right,bottom right,7.2639995,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.73299235
+top right,bottom right,7.296,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.655172
+top right,bottom right,7.328,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5729067
+top right,bottom right,7.36,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5774322
+top right,bottom right,7.392,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5187191
+bottom right,bottom right,7.424,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.44450507
+bottom right,bottom right,7.4560003,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5130241
+bottom right,bottom right,7.4879994,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5693566
+bottom right,bottom right,7.52,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.61575437
+bottom right,bottom right,7.552,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5873254
+bottom right,bottom right,7.584,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5741143
+bottom right,bottom right,7.6160007,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5548984
+bottom right,bottom right,7.648,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.54645026
+bottom right,bottom right,7.6800003,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.55730766
+bottom right,bottom right,7.712,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.50710857
+bottom right,bottom right,7.744,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4756619
+bottom right,bottom right,7.776,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.47532168
+top right,bottom right,7.808,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.39688152
+top right,bottom right,7.8400006,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5428516
+top right,bottom right,7.8719997,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5594728
+top right,bottom right,7.9040003,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.46019286
+top right,bottom right,7.936,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.31644842
+right,bottom right,7.968,0.1279378,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.32160679
+bottom right,bottom right,8.0,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.41464487
+bottom right,bottom right,8.032,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5996857
+bottom right,bottom right,8.064,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6597476
+bottom right,bottom right,8.096,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64179295
+bottom right,bottom right,8.128,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6021425
+bottom right,bottom right,8.16,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4779262
+,bottom right,8.192,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3340622
+top right,bottom right,8.224,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.42307028
+top right,bottom right,8.256,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5199892
+top right,bottom right,8.288,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.66308445
+top right,bottom right,8.32,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7541955
+top right,bottom right,8.352,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8046884
+top right,bottom right,8.384,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7981547
+top right,bottom right,8.416,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.75734854
+top right,bottom right,8.448,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.67892367
+top right,bottom right,8.48,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5146117
+,bottom right,8.512,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.46381968
+bottom right,bottom right,8.544,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.42102933
+bottom right,bottom right,8.576,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.528812
+bottom right,bottom right,8.608,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.47843295
+bottom right,bottom right,8.64,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6634725
+bottom right,bottom right,8.672,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5618214
+,bottom right,8.704,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.49982458
+,bottom right,8.736,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4624366
+top right,bottom right,8.768,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.51074815
+top right,bottom right,8.8,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48541826
+top right,bottom right,8.832,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5102384
+top right,bottom right,8.864,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.46452162
+,bottom right,8.896,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.53767174
+,bottom right,8.928,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.58255994
+,bottom right,8.96,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.58764374
+,bottom right,8.992,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5613703
+,bottom right,9.024,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48400313
+top right,bottom right,9.056,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4925515
+top right,bottom right,9.088,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.45839044
+top right,bottom right,9.12,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5128055
+top right,bottom right,9.152,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.49562135
+top right,bottom right,9.184,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.56736517
+top right,bottom right,9.216,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.60059214
+top right,bottom right,9.248,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6525328
+top right,bottom right,9.28,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6979441
+top right,bottom right,9.312,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6848311
+top right,bottom right,9.344,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6952476
+top right,bottom right,9.376,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.53300995
+bottom right,bottom right,9.408,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.44980448
+bottom right,bottom right,9.44,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64087135
+bottom right,bottom right,9.472,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7507
+bottom right,bottom right,9.504,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76190716
+bottom right,bottom right,9.536,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.78866863
+bottom right,bottom right,9.568,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.78634834
+bottom right,bottom right,9.6,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8127572
+bottom right,bottom right,9.632,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7995636
+bottom right,bottom right,9.664,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7986602
+bottom right,bottom right,9.696,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8168196
+bottom right,bottom right,9.728,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76116467
+bottom right,bottom right,9.76,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7676985
+bottom right,bottom right,9.792,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7851377
+bottom right,bottom right,9.824,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7806
+bottom right,bottom right,9.856,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8232767
+bottom right,bottom right,9.888,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8189241
+bottom right,bottom right,9.92,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8171742
+bottom right,bottom right,9.952,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8179275
+bottom right,bottom right,9.984,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8280524
+bottom right,bottom right,10.016,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.8256076
+bottom right,bottom right,10.048,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.81796825
+bottom right,bottom right,10.08,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.80701375
+bottom right,bottom right,10.112,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7978389
+bottom right,bottom right,10.144,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7960879
+bottom right,bottom right,10.176,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.79382855
+bottom right,bottom right,10.208,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7899743
+bottom right,bottom right,10.24,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7802525
+bottom right,bottom right,10.272,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.77743644
+bottom right,bottom right,10.304,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7772307
+bottom right,bottom right,10.336,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7775574
+bottom right,bottom right,10.368,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.78509337
+bottom right,bottom right,10.4,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.75809336
+bottom right,bottom right,10.432,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.74801457
+bottom right,bottom right,10.464,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.71705365
+bottom right,bottom right,10.496,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7219248
+bottom right,bottom right,10.528,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6682581
+bottom right,bottom right,10.56,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6953528
+bottom right,bottom right,10.592,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.67623985
+bottom right,bottom right,10.624,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6808678
+bottom right,bottom right,10.656,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7612004
+bottom right,,10.688,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.74802965
+bottom right,,10.72,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7590322
+bottom right,,10.752,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7379615
+bottom right,,10.784,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.68443424
+bottom right,,10.816,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6433336
+bottom right,,10.848,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6703612
+bottom right,,10.88,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64509374
+bottom right,,10.912,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.66627055
+bottom right,,10.944,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7053341
+bottom right,,10.976,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7249394
+bottom right,,11.008,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76095605
+bottom right,,11.04,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7682523
+bottom right,,11.072,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76575875
+bottom right,,11.104,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7661595
+bottom right,,11.136,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.76674825
+bottom right,,11.168,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7963251
+bottom right,,11.2,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.7868236
+bottom right,,11.232,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6511872
+top right,,11.264,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.41744393
+top right,,11.295999,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6456269
+top right,,11.328,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64387876
+top right,,11.36,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4828329
+,,11.392001,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.48205233
+,,11.424,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.53217435
+,,11.455999,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5190997
+,,11.488,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.42430985
+,,11.52,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.3915479
+bottom right,,11.552,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5156738
+bottom right,,11.584,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.54791933
+bottom right,,11.616001,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6381575
+bottom right,,11.648,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.64948976
+bottom right,,11.679999,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.63306886
+bottom right,,11.712,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.6204908
+bottom right,,11.744,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.5350353
+bottom right,,11.776,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.4971665
+bottom right,,11.808,0.12793827,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.35331762
+,,11.840001,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.46652704
+,,11.872,0.12793732,1,c2b352f9-c106-4e83-8bf3-3d17ac72a6bf:bottomright2,0.49057868
